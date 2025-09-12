@@ -116,3 +116,4 @@ printf("Cipher Text: %s\n", cipherText);
 <img width="832" height="729" alt="Screenshot 2025-09-12 083415" src="https://github.com/user-attachments/assets/5bb626ce-70b1-4d38-93de-c7b76531c9cd" />
 
 ## RESULT:
+Thus the implementation of Hill Cipher text is executed successfully.
